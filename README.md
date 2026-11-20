@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230107
+# Name: ISHWARYA M
+# Date: 20/11/26
 
 
 # AIM:
@@ -23,6 +23,8 @@ To develop the Railway Reservation System using Star UML.
 UML DIAGRAMS
 
 # USE CASE DIAGRAM
+
+<img width="1243" height="901" alt="image" src="https://github.com/user-attachments/assets/0a43c8da-7cff-4df7-817c-78bbe05a46b7" />
 
 A use case diagram is a graphical depiction of a user's possible interactions with a system. The use cases are represented by either circles or ellipses. The actors are often shown as stick figures.
 
@@ -47,6 +49,9 @@ Specifying the context and requirements of a system
 
 # CLASS DIAGRAM
 
+<img width="1263" height="977" alt="image" src="https://github.com/user-attachments/assets/94f64b95-936c-4b01-b0ce-091cdfbc26a5" />
+
+
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
 
 among software engineers to document software architecture, class diagrams are a type of structure diagram because they describe what must be present in the system being modeled. No matter your level of familiarity with UML or class diagrams, our UML software is designed to be simple and easy to use.
@@ -63,6 +68,8 @@ Create detailed charts that…
 
 # COMMUNICTION DIAGRAM:
 
+<img width="1261" height="973" alt="image" src="https://github.com/user-attachments/assets/6039835e-f7a0-4ba9-a1e5-cf320aaeb55a" />
+
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
@@ -71,6 +78,8 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 
 
 # PACKAGE DIAGRAM:
+
+<img width="1254" height="972" alt="image" src="https://github.com/user-attachments/assets/748343b6-beba-4d28-bea6-ead80d266d24" />
 
 Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
 
@@ -87,6 +96,8 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 # ACTIVITY DIAGRAM:
 
+<img width="1261" height="977" alt="image" src="https://github.com/user-attachments/assets/9d0107e9-a58f-4525-92a5-922d4de86338" />
+
 The Unified Modeling Language includes several subsets of diagrams, including structure diagrams, interaction diagrants, and behavior diagrams. Activity diagrams, along with use case and state machine diagrams, are considered behavior diagrams because they describe what must happen in the system being modeled.
 
 Stakeholders have many issues to manage, so it's important to communicate with clarity and brevity. Activity diagrams help people on the business and development sides of an organization come together to understand the same process and behavior.
@@ -102,6 +113,8 @@ Describe the steps performed in a UML use case.
 
 
 # SEQUENCE DIAGRAM
+
+<img width="1259" height="974" alt="image" src="https://github.com/user-attachments/assets/1c0b35c8-c8e4-4932-83a8-d732756af776" />
 
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
